@@ -1,0 +1,25 @@
+.home {
+  text-align: center;
+  padding: 2rem;
+  color: white; 
+}
+
+.headline {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: white; 
+}
+
+.profile-photo {
+  width: 600px; 
+  height: 500px; 
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.summary {
+  font-size: 2.2em; 
+  margin-top: 1rem;
+  color: #30ec53; 
+  font-weight: bold; 
+}
